@@ -1,4 +1,13 @@
 # Classification Model for Resume Selection
+# About
+
+Built a Resume selection model for different jobs
+
+# Objective: 
+Create a model for Resume selection
+# Steps and tasks:
+1. Exploratory Data Analysis
+2. Find a good Resume selection model for different jobs
 
 # Contents
 This is a Resume Data set. For this i developed and compared somany models.
