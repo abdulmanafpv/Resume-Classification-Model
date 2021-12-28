@@ -5,7 +5,7 @@ Built a Resume selection model for different jobs
 
 # Objective: 
 Create a model for Resume selection
-# Steps and tasks:
+# Steps and Tasks:
 1. Exploratory Data Analysis
 2. Find a good Resume selection model for different jobs
 
