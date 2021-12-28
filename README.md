@@ -10,7 +10,7 @@ Create a model for Resume selection
 2. Find a good Resume selection model for different jobs
 
 # Contents
-This is a Resume Data set. For this i developed and compared somany models.
+This is a Resume Data set. This data set contains 169 rows and 2 columnsFor this i developed and compared somany models.
 
 For this Classification i Used:
 1) K-NN
